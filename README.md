@@ -74,6 +74,6 @@ Run on the simulator or a real device
 Zohidjon Aktamov
 iOS Developer
 
-GitHub: https://github.com/yourusername
+GitHub: [https://github.com/yourusername](https://github.com/Megatron1996)
 
-LinkedIn: https://linkedin.com/in/yourprofile
+LinkedIn: [https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/zohidjon-aktamov-2b7240114/)
