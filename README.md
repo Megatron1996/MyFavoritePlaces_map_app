@@ -35,14 +35,6 @@ Xcode
 <img width="200" height="500" alt="Simulator Screenshot - iPhone 17 Pro - 2026-03-12 at 11 52 14" src="https://github.com/user-attachments/assets/06b4699f-181a-484c-bf5d-1f3c7995d236" />
 
 
-📂 Project Structure
-MyFavoritePlaces
-│
-├── Models
-├── ViewModels
-├── Views
-├── Services
-└── Resources
 📱 How It Works
 
 The app loads a map using MapKit.
