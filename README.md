@@ -63,7 +63,7 @@ Building clean and scalable iOS apps
 
 Clone the repository
 
-git clone [https://github.com/yourusername/MyFavoritePlaces.git](https://github.com/Megatron1996/MyFavoritePlaces_map_app.git)
+git clone [https://github.com/Megatron1996/MyFavoritePlaces_map_app.git]
 
 Open the project in Xcode
 
@@ -74,6 +74,6 @@ Run on the simulator or a real device
 Zohidjon Aktamov
 iOS Developer
 
-GitHub: [https://github.com/yourusername](https://github.com/Megatron1996)
+GitHub: [https://github.com/Megatron1996]
 
-LinkedIn: [https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/zohidjon-aktamov-2b7240114/)
+LinkedIn: [https://www.linkedin.com/in/zohidjon-aktamov-2b7240114/]
