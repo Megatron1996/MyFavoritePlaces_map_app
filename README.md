@@ -63,7 +63,7 @@ Building clean and scalable iOS apps
 
 Clone the repository
 
-git clone https://github.com/yourusername/MyFavoritePlaces.git
+git clone [https://github.com/yourusername/MyFavoritePlaces.git](https://github.com/Megatron1996/MyFavoritePlaces_map_app.git)
 
 Open the project in Xcode
 
